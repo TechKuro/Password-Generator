@@ -133,7 +133,7 @@ function getPasswordOptions() {
     }
 
   }
-
+  
   // Return password options as an object
   return {
     lowercase: lowercase,
@@ -143,14 +143,6 @@ function getPasswordOptions() {
     length: length
   }
 }
-
-
-
-
-
-
-
-
   // Function for getting a random element from an array
 
 function getRandom(arr) {
